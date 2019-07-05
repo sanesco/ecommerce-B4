@@ -1,0 +1,21 @@
+
+div.card{
+  max-width: 18rem;
+  height: 450px;
+  margin: 10px;
+  padding: 3%;
+  border: solid gray;
+  border-width: thin;
+  font-size: 15px;
+
+}
+
+.card-img-top{
+
+  width: 90%;
+
+}
+
+.text_area{
+  min-width: 100%;
+}
